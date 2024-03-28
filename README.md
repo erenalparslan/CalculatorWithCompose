@@ -24,6 +24,6 @@ Career Advancement: Mastering Jetpack Compose opens up opportunities for career 
 
 # Screenshoot
 <br/>
+ <img src="![Screenshot_20240328_233956](https://github.com/erenalparslan/CalculatorWithCompose/assets/100201401/66d3e5a0-9463-4667-9ea0-45bea4b1fb1c)" alt="Resim Açıklaması" width="200" height="150">
 
-![Screenshot_20240328_233956](https://github.com/erenalparslan/CalculatorWithCompose/assets/100201401/66d3e5a0-9463-4667-9ea0-45bea4b1fb1c)
 
